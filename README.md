@@ -12,45 +12,39 @@ Soy un joven apasionado por la **programación** y la **ciberseguridad**, proact
 ## 🚀 Tecnologías y Herramientas con las que estoy familiarizado
 
 #### Avanzado:
-<span>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/JSON-00000F?style=flat&logo=json&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" height="30">
-</span>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-00000F?style=flat&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
 
 #### Intermedio:
-<span>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/JAXB-FF7800?style=flat&logo=oracle&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" height="30">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/WPF-XAML-0C54C2?style=flat&logo=.net&labelColor=512BD4&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Odoo-512BD4?style=flat&logo=odoo&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" height="30">
-</span>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![JAXB](https://img.shields.io/badge/JAXB-FF7800?style=flat&logo=oracle&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
+![WPF/XAML](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-512BD4?style=flat&logo=odoo&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
 #### Básico:
-<span>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="30">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/PL/SQL-F80000?style=flat&logo=Oracle&logoColor=white" height="30">
-</span>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 
 ---
 
