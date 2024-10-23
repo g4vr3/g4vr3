@@ -54,7 +54,7 @@ Durante mi carrera profesional he participado en el desarrollo de **Aplicaciones
 
 Además, particpé activamente en la **optimización de procesos** dentro de varios proyectos, logrando reducir el tiempo de ejecución en hasta un **200%** mediante la automatización y mejoras en la eficiencia de los sistemas. También proporcioné soporte técnico IT, resolviendo incidencias y realizando la reparación y configuración de equipos.
 
-En **marzo de 2022**, mientras cursaba mi **Grado Medio en Sistemas Microinformáticos y Redes**, decidí **cofundar una empresa de venta online** junto a dos buenos amigos, donde me encargué de la **búsqueda y gestión de nuevas oportunidades de negocio**, colaboré en la **creación y mantenimiento de los sitios web**, participé en el **diseño de estrategias de marketing**, así como en la **gestión de ventas y mercados internacionales** y en la **implementación de técnicas y estrategias SEO**, especializándome en **Google Analytics** y **SEO On-Page**.
+En **2021**, impulsado por mi inquietud y mi pasión por el trabajo en equipo, decidí **cofundar una empresa de venta online** junto a dos buenos amigos, donde me encargué de la **búsqueda y gestión de nuevas oportunidades de negocio**, colaboré en la **creación y mantenimiento de los sitios web**, participé en el **diseño de estrategias de marketing**, así como en la **gestión de ventas y mercados internacionales** y en la **implementación de técnicas y estrategias SEO**, especializándome en **Google Analytics** y **SEO On-Page**.
 
 ---
 
