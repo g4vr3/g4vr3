@@ -30,6 +30,7 @@ Soy un joven apasionado por la **programación** y la **ciberseguridad**, proact
 ![Swing](https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 ![WPF/XAML](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white)
+<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-512BD4?style=flat&logo=odoo&logoColor=white)
