@@ -29,7 +29,7 @@ Soy un joven apasionado por la **programación** y la **ciberseguridad**, proact
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
-![WPF/XAML](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white)
+![WPF/XAML](https://img.shields.io/badge/WPF-XAML-0C54C2?style=flat&logo=.net&labelColor=512BD4&logoColor=white)
 <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -45,7 +45,7 @@ Soy un joven apasionado por la **programación** y la **ciberseguridad**, proact
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat&logo=Oracle&logoColor=white)
 
 ---
 
