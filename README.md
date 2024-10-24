@@ -19,6 +19,8 @@ Soy un joven apasionado por la **programación** y la **ciberseguridad**, proact
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
 ![Hibernate/JPA](https://img.shields.io/badge/Hibernate-JPA-59666C?style=flat&logo=hibernate&labelColor=003545&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 #### Intermedio:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
