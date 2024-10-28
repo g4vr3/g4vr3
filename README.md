@@ -52,7 +52,7 @@ Soy un joven apasionado por la **programación** y la **ciberseguridad**, proact
 
 ## 💼 Experiencia Profesional
 
-Durante mi carrera profesional he participado en el desarrollo de **Aplicaciones Web** y nuevas funcionalidades, utilizando tecnologías como **HTML5, JavaScript, CSS y Node.js**. También he colaborado en **Proyectos de Formación sobre IA** y **Seguridad Informática**, en los que me encargué de la **implementación de planes de Seguridad Informática** en equipos de trabajo, como la configuración de **Firewall**, **Gestores de Contraseñas** y **Autenticación de accesos**.
+Durante mi carrera profesional he participado en el desarrollo de **Aplicaciones Web** y soluciones, utilizando tecnologías como **HTML5, JavaScript, CSS y Node.js**. También he colaborado en **Proyectos de Formación sobre IA** y **Seguridad Informática**, en los que me encargué de la **implementación de planes de Seguridad Informática** en equipos de trabajo, como la configuración de **Firewall**, **Gestores de Contraseñas** y **Autenticación de accesos**.
 
 Además, particpé activamente en la **optimización de procesos** dentro de varios proyectos, logrando reducir el tiempo de ejecución en hasta un **200%** mediante la automatización y mejoras en la eficiencia de los sistemas. También proporcioné soporte técnico IT, resolviendo incidencias y realizando la reparación y configuración de equipos.
 
