@@ -65,8 +65,9 @@ En **2021**, impulsado por mi inquietud y mi pasión por el trabajo en equipo, d
 - MySQL Advanced II - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/Ctww)
 - Curso de Java y MySQL JDBC - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/1K1h)
 - Curso de C# (Beginner) - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/sgnJ)
-- Programación funcional Java: Interfaces funcionales y lambdas - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/7xBd)
-- Programación funcional Java: API Stream - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/XxC6)
+- Programación funcional Java - _OpenWebinars_ (10/2024)
+  - Interfaces funcionales y lambdas - [Credencial](https://openwebinars.net/cert/7xBd)
+  - API Stream - [Credencial](https://openwebinars.net/cert/XxC6)
 
 ---
 
