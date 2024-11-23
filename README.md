@@ -97,12 +97,13 @@ En **2021**, impulsado por mi inquietud y mi pasión por el trabajo en equipo, d
 
 ---
 
-## 📜 Certificaciones 
+## 📜 Cursos y Certificaciones 
 
-- MySQL Advanced II - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/Ctww)
+- Java Advanced III Certificate - _OpenWebinars_ (11/2024) - [Credencial](https://openwebinars.net/cert/WkC3)
+- MySQL Advanced II Certificate - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/Ctww)
 - Curso de Java y MySQL JDBC - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/1K1h)
-- Curso de C# (Beginner) - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/sgnJ)
-- Programación funcional Java - _OpenWebinars_ (10/2024 - 11/2024)
+- Curso de C# (Principiantes) - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/sgnJ)
+- Talleres Programación funcional Java - _OpenWebinars_ (10/2024 - 11/2024)
   - Programación funcional avanzada - [Credencial](https://openwebinars.net/cert/NaBn)
   - API Stream - [Credencial](https://openwebinars.net/cert/XxC6)
   - Interfaces funcionales y lambdas - [Credencial](https://openwebinars.net/cert/7xBd)
