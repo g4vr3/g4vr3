@@ -11,42 +11,79 @@ Soy un joven apasionado por la **programación** y la **ciberseguridad**, proact
 
 ## 🚀 Tecnologías y Herramientas con las que estoy familiarizado
 
-#### Avanzado:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-00000F?style=flat&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
-![Hibernate/JPA](https://img.shields.io/badge/Hibernate-JPA-59666C?style=flat&logo=hibernate&labelColor=003545&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <strong>🖥️ Desarrollo Backend</strong><br>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=dotnet&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Hibernate-JPA-59666C?style=flat&logo=hibernate&labelColor=003545&logoColor=white" alt="Hibernate/JPA">
+      <img src="https://img.shields.io/badge/JAXB-003A56?style=flat&logo=java&logoColor=white" alt="JAXB">
+      <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white" alt="JDBC">
+    </td>
+    <td>
+      <strong>🌐 Desarrollo Frontend</strong><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+    </td>
+    <td>
+      <strong>📱 UI/UX</strong><br>
+      <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat&logo=dotnet&logoColor=white" alt="WinForms">
+      <img src="https://img.shields.io/badge/WPF-0C54C2?style=flat&logo=.net&labelColor=512BD4&logoColor=white" alt="WPF">
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android">
+      <img src="https://img.shields.io/badge/Swing-8B1A1A?style=flat&logo=java&logoColor=white" alt="Swing">
+      <img src="https://img.shields.io/badge/JavaFX-25B8A1?style=flat&logo=java&logoColor=white" alt="JavaFX">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🗄️ Bases de Datos</strong><br>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/PL/SQL-F80000?style=flat&logo=Oracle&logoColor=white" alt="PL/SQL">
+      <img src="https://img.shields.io/badge/H2-5D9B5D?style=flat&logo=java&logoColor=white" alt="H2">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=windows&logoColor=white" alt="SQL Server">
+    </td>
+    <td>
+      <strong>🛠️ ERP, CRM y CMS</strong><br>
+      <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white" alt="Shopify">
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress">
+      <img src="https://img.shields.io/badge/Odoo-512BD4?style=flat&logo=odoo&logoColor=white" alt="Odoo">
+    </td>
+    <td>
+      <strong>🚀 DevOps</strong><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>💻 Control de Versiones</strong><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+    </td>
+    <td>
+      <strong>🖥️ Sistemas</strong><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux">
+      <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS">
+      <img src="https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white" alt="Windows">
+    </td>
+    <td>
+      <strong>🔒 Redes y Seguridad</strong><br>
+      <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox">
+      <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
+      <img src="https://img.shields.io/badge/Metasploit-EE3B3B?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
+    </td>
+  </tr>
+</table>
 
-#### Intermedio:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![JAXB](https://img.shields.io/badge/JAXB-FF7800?style=flat&logo=oracle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
-![WPF/XAML](https://img.shields.io/badge/WPF-XAML-0C54C2?style=flat&logo=.net&labelColor=512BD4&logoColor=white)
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-512BD4?style=flat&logo=odoo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
-#### Básico:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat&logo=Oracle&logoColor=white)
+
 
 ---
 
