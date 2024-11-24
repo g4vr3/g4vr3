@@ -78,6 +78,8 @@ Soy un joven apasionado por la **programación** y la **ciberseguridad**, proact
       <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox">
       <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware">
       <img src="https://img.shields.io/badge/Metasploit-EE3B3B?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
+      <img src="https://img.shields.io/badge/John_the_Ripper-EE3B3B?style=flat&logo=security&logoColor=white" alt="John the Ripper">
+      <img src="https://img.shields.io/badge/Hydra-00979D?style=flat&logo=security&logoColor=white" alt="Hydra">
     </td>
   </tr>
 </table>
