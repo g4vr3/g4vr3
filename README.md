@@ -44,8 +44,6 @@ Actualmente, estoy cursando un Grado Superior en Desarrollo de Aplicaciones Mult
 
 ## 💼 Experiencia Profesional
 
-Soy un desarrollador apasionado por las nuevas tecnologías y la ciberseguridad, proactivo y ambicioso. Cuento con sólidos conocimientos en desarrollo backend utilizando Java, Spring Boot y .NET, así como experiencia en la creación y desarrollo de UI/UX con JavaFX, WPF y Swing. Además, tengo un excelente manejo de bases de datos relacionales SQL y conocimientos intermedios en bases de datos NoSQL como MongoDB, por lo que soy capaz de diseñar, integrar y optimizar eficazmente la arquitectura de aplicaciones, asegurando su escalabilidad y rendimiento.
-
 A lo largo de mi carrera profesional, he tenido la oportunidad de participar en el desarrollo de aplicaciones web, utilizando tecnologías como HTML, CSS, JavaScript y Node.js, además de colaborar en proyectos de formación relacionados con la Inteligencia Artificial y la ciberseguridad.
 Además, participé activamente en la optimización de procesos, donde logré reducir en hasta un 250% los tiempos de ejecución. También proporcioné soporte técnico IT y me encargué de la implementación de planes de seguridad para equipos de trabajo, mejorando la protección y el rendimiento del entorno. 
 
