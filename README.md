@@ -45,7 +45,9 @@ Actualmente, estoy cursando un Grado Superior en Desarrollo de Aplicaciones Mult
 ## 💼 Experiencia Profesional
 
 A lo largo de mi carrera profesional, he tenido la oportunidad de participar en el desarrollo de aplicaciones web, utilizando tecnologías como HTML, CSS, JavaScript y Node.js, además de colaborar en proyectos de formación relacionados con la Inteligencia Artificial y la ciberseguridad.
-Además, participé activamente en la optimización de procesos, donde logré reducir en hasta un 250% los tiempos de ejecución. También proporcioné soporte técnico IT y me encargué de la implementación de planes de seguridad para equipos de trabajo, mejorando la protección y el rendimiento del entorno. 
+
+Además, participé activamente en la optimización de procesos, donde logré reducir en hasta un 250% los tiempos de ejecución. 
+También proporcioné soporte técnico IT y me encargué de la implementación de planes de seguridad para equipos de trabajo, mejorando la protección y el rendimiento del entorno. 
 
 En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en equipo, cofundé una startup de venta online, donde lideré iniciativas de gestión de negocios internacionales, colaboré en el diseño y desarrollo de sitios web con plataformas como Wordpress y Shopify, diseñé estrategias de marketing y apliqué técnicas SEO para mejorar la visibilidad online.
 
