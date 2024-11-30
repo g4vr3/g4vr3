@@ -49,8 +49,6 @@ Además, participé activamente en la optimización de procesos, donde logré re
 
 En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en equipo, cofundé una startup de venta online, donde lideré iniciativas de gestión de negocios internacionales, colaboré en el diseño y desarrollo de sitios web con plataformas como Wordpress y Shopify, diseñé estrategias de marketing y apliqué técnicas SEO para mejorar la visibilidad online.
 
-Actualmente, estoy cursando un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), complementado con formación continua en tecnologías emergentes y áreas clave como .NET, Python y ciberseguridad, con el objetivo de ampliar mis competencias técnicas y mantenerme actualizado.
-
 ---
 
 ## 📜 Cursos y Certificaciones 
