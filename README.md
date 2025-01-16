@@ -5,7 +5,7 @@
 
 ---
 
-Soy un desarrollador apasionado por las **nuevas tecnologías** y la **ciberseguridad**, proactivo y ambicioso, en constante búsqueda de nuevos retos que me permitan impulsar mis conocimientos y habilidades. 
+Soy un desarrollador apasionado por la programación y la ciberseguridad, por lo que trato de combinarlas con el objetivo de aportar un gran valor en el área de la seguridad informática. Soy creativo, proactivo y me gusta exponer mis ideas si estas aportan algo de valor. 
 
 Actualmente, estoy cursando un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), complementado con formación continua en tecnologías emergentes y áreas clave como .NET, Python y ciberseguridad, con el objetivo de ampliar mis competencias técnicas y mantenerme actualizado.
 
