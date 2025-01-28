@@ -3,6 +3,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&labelColor=100000)](https://github.com/g4vr3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836)](mailto:gdfizan@gmail.com)
 
+### Si quieres ir al grano, hazlo:
+[![🚀 Tecnologías](https://img.shields.io/badge/Tecnologías%20y%20Herramientas-%F0%9F%9A%80-blue)](#-tecnologías-y-herramientas-con-las-que-estoy-familiarizado)
+[![💼 Experiencia](https://img.shields.io/badge/Experiencia%20Profesional-%F0%9F%92%BC-green)](#-experiencia-profesional)
+[![📜 Cursos](https://img.shields.io/badge/Cursos%20y%20Certificaciones-%F0%9F%93%9C-yellow)](#-cursos-y-certificaciones)
+[![📚 Formación](https://img.shields.io/badge/Formación-%F0%9F%93%9A-red)](#-formación)  
+
+  
 ---
 
 Soy un desarrollador apasionado por la programación y la ciberseguridad, por lo que trato de combinarlas con el objetivo de aportar un gran valor en el área de la seguridad informática. Soy creativo, proactivo y me gusta exponer mis ideas si estas aportan algo de valor. 
@@ -54,17 +61,18 @@ En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en e
 ---
 
 ## 📜 Cursos y Certificaciones 
-
-- Java Advanced III Certificate - _OpenWebinars_ (11/2024) - [Credencial](https://openwebinars.net/cert/WkC3)
-- MySQL Advanced II Certificate - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/Ctww)
-- Curso de Java y MySQL JDBC - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/1K1h)
-- Curso de C# (Principiantes) - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/sgnJ)
-- Talleres Programación funcional Java - _OpenWebinars_ (10/2024 - 11/2024)
-  - Programación funcional avanzada - [Credencial](https://openwebinars.net/cert/NaBn)
-  - API Stream - [Credencial](https://openwebinars.net/cert/XxC6)
-  - Interfaces funcionales y lambdas - [Credencial](https://openwebinars.net/cert/7xBd)
-
----
+- Desarrollo
+  - Java Advanced III Certificate - _OpenWebinars_ (11/2024) - [Credencial](https://openwebinars.net/cert/WkC3)
+  - MySQL Advanced II Certificate - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/Ctww)
+  - Curso de Java y MySQL JDBC - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/1K1h)
+  - Curso de C# (Principiante) - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/sgnJ)
+  - Curso de C# (Intermedio) - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/BdBS)
+  - Talleres Programación funcional Java - _OpenWebinars_ (10/2024 - 11/2024)
+    - Programación funcional avanzada - [Credencial](https://openwebinars.net/cert/NaBn)
+    - API Stream - [Credencial](https://openwebinars.net/cert/XxC6)
+    - Interfaces funcionales y lambdas - [Credencial](https://openwebinars.net/cert/7xBd)
+- Ciberseguridad
+  - Curso de Introducción a la Ciberseguridad - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/sg0C)
 
 ## 📚 Formación
 
