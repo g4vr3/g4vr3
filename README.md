@@ -65,7 +65,7 @@ En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en e
   - Java Advanced III Certificate - _OpenWebinars_ (11/2024) - [Credencial](https://openwebinars.net/cert/WkC3)
   - MySQL Advanced II Certificate - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/Ctww)
   - Curso de Java y MySQL JDBC - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/1K1h)
-  - Curso Gir y GitHub - _Youtube_ (10/2024) - [Enlace](https://www.youtube.com/watch?v=niPExbK8lSw&ab_channel=midulive)
+  - Curso Git y GitHub - _Youtube_ (10/2024) - [Enlace](https://www.youtube.com/watch?v=niPExbK8lSw&ab_channel=midulive)
   - Curso de C# (Principiante) - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/sgnJ)
   - Curso de C# (Intermedio) - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/BdBS)
   - Talleres Programación funcional Java - _OpenWebinars_ (10/2024 - 11/2024)
