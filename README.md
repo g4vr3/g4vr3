@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&labelColor=100000)](https://github.com/g4vr3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836)](mailto:gdfizan@gmail.com)
 
-### Si quieres ir al grano, hazlo:
+### Si quieres ir al grano, te lo pongo fácil:
 [![🚀 Tecnologías](https://img.shields.io/badge/Tecnologías%20y%20Herramientas-%F0%9F%9A%80-blue)](#-tecnologías-y-herramientas-con-las-que-estoy-familiarizado)
 [![💼 Experiencia](https://img.shields.io/badge/Experiencia%20Profesional-%F0%9F%92%BC-green)](#-experiencia-profesional)
 [![📜 Cursos](https://img.shields.io/badge/Cursos%20y%20Certificaciones-%F0%9F%93%9C-yellow)](#-cursos-y-certificaciones)
@@ -44,8 +44,9 @@ Actualmente, estoy cursando un Grado Superior en Desarrollo de Aplicaciones Mult
 **🖥️ Sistemas**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-**🔒 Redes y Seguridad**  
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-EE3B3B?style=flat&logo=metasploit&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-EE3B3B?style=flat&logo=security&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-00979D?style=flat&logo=security&logoColor=white)
+**🔒 Redes y Ciberseguridad**  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![UTM](https://img.shields.io/badge/UTM_Virtualization-FF6600?style=flat&logo=security&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-EE3B3B?style=flat&logo=metasploit&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-EE3B3B?style=flat&logo=security&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-00979D?style=flat&logo=security&logoColor=white) ![Maltego](https://img.shields.io/badge/Maltego-1E1E1E?style=flat&logo=maltego&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat&logo=shodan&logoColor=white) ![OSRFramework](https://img.shields.io/badge/OSRFramework-000000?style=flat&logo=security&logoColor=white) ![Sherlock](https://img.shields.io/badge/Sherlock-800080?style=flat&logo=security&logoColor=white)  
+
 
 ---
 
@@ -74,6 +75,8 @@ En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en e
     - Interfaces funcionales y lambdas - [Credencial](https://openwebinars.net/cert/7xBd)
 - Ciberseguridad
   - Curso de Introducción a la Ciberseguridad - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/sg0C)
+  - Introducción a la Ciberseguridad - _Cisco_ (01/2025) - [Credencial](https://www.credly.com/badges/27667e8c-1764-4586-83c1-b9b0ac711305/linked_in_profile)
+  - Curso OSINT: Técnicas de investigación e inteligencia en fuentes abiertas - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/pyyL)
 
 ## 📚 Formación
 
