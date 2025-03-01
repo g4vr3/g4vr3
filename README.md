@@ -77,6 +77,7 @@ En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en e
   - Curso de Introducción a la Ciberseguridad - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/sg0C)
   - Introducción a la Ciberseguridad - _Cisco_ (01/2025) - [Credencial](https://www.credly.com/badges/27667e8c-1764-4586-83c1-b9b0ac711305/linked_in_profile)
   - Curso OSINT: Técnicas de investigación e inteligencia en fuentes abiertas - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/pyyL)
+  - Curso de Hacking Web - _OpenWebinars_ (03/2025) - [Credencial](https://openwebinars.net/cert/7ZZl)
 
 ## 📚 Formación
 
@@ -87,13 +88,3 @@ En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en e
 - **Técnico en Sistemas Microinformáticos y Redes**  
   _IES Laguna de Joatzel_  
   _2021 - 2023_
-
-
-
-
-
-
-
-
-
-
