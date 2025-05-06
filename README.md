@@ -13,7 +13,7 @@
 ---
 
 Soy desarrollador pero mi verdadera vocación está en la ciberseguridad, por lo que combino mis conocimientos en ambas áreas para aportar un gran valor en la seguridad informática.
-Soy curioso, proactivo y me gusta exponer mis ideas.
+Soy curioso y me gusta exponer mis ideas.
 
 ---
 
