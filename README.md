@@ -67,17 +67,22 @@ En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en e
   - MySQL Advanced II Certificate - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/Ctww)
   - Curso de Java y MySQL JDBC - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/1K1h)
   - Curso Git y GitHub - _Youtube_ (10/2024) - [Enlace](https://www.youtube.com/watch?v=niPExbK8lSw&ab_channel=midulive)
-  - Curso de C# (Principiante) - _OpenWebinars_ (10/2024) - [Credencial](https://openwebinars.net/cert/sgnJ)
   - Curso de C# (Intermedio) - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/BdBS)
-  - Talleres Programación funcional Java - _OpenWebinars_ (10/2024 - 11/2024)
-    - Programación funcional avanzada - [Credencial](https://openwebinars.net/cert/NaBn)
-    - API Stream - [Credencial](https://openwebinars.net/cert/XxC6)
-    - Interfaces funcionales y lambdas - [Credencial](https://openwebinars.net/cert/7xBd)
+  - Programación funcional avanzada - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/NaBn)
 - Ciberseguridad
   - Curso de Introducción a la Ciberseguridad - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/sg0C)
-  - Introducción a la Ciberseguridad - _Cisco_ (01/2025) - [Credencial](https://www.credly.com/badges/27667e8c-1764-4586-83c1-b9b0ac711305/linked_in_profile)
+  - Introduction to Cibersecurity - _Cisco_ (01/2025) - [Credencial](https://www.credly.com/badges/27667e8c-1764-4586-83c1-b9b0ac711305/linked_in_profile)
   - Curso OSINT: Técnicas de investigación e inteligencia en fuentes abiertas - _OpenWebinars_ (01/2025) - [Credencial](https://openwebinars.net/cert/pyyL)
+  - Herramientas para búsquedas OSINT avanzadas - _OpenWebinars_ (01/2025)
   - Curso de Hacking Web - _OpenWebinars_ (03/2025) - [Credencial](https://openwebinars.net/cert/7ZZl)
+  - Curso de análisis de malware
+  - Curso de Metasploit Framework 
+  - Pentesting con Metasploit 
+  - Análisis forense avanzado en Windows
+  - Análisis forense avanzado en Linux
+  - Trend Micro XDR
+  - SC-200: Mitigación de amenazas mediante Microsoft Defender XDR
+
 
 ## 📚 Formación
 
