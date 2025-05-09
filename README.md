@@ -12,51 +12,42 @@
   
 ---
 
-Soy desarrollador pero mi verdadera vocación está en la ciberseguridad, por lo que combino mis conocimientos en ambas áreas para aportar un gran valor en la seguridad informática.
-Soy curioso y me gusta exponer mis ideas.
+Mi pasión es la ciberseguridad, y la combino con mi experiencia en desarrollo para crear soluciones que marcan la diferencia.
+Soy curioso y me gusta exponer mis ideas si creo que pueden aportar algo de valor.
 
 ---
 
-## 🚀 Tecnologías y Herramientas con las que estoy familiarizado
+## 🚀 Tecnologías y Herramientas con las que me gusta trabajar
 
-**🖥️ Desarrollo Backend**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Hibernate/JPA](https://img.shields.io/badge/Hibernate-JPA-59666C?style=flat&logo=hibernate&labelColor=003545&logoColor=white) ![JAXB](https://img.shields.io/badge/JAXB-003A56?style=flat&logo=java&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
+**🔒 Ciberseguridad**  
+ ![Trend Micro](https://img.shields.io/badge/Trend_Micro-D71920?style=flat&logo=trendmicro&logoColor=white) ![Microsoft Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-0078D4?style=flat&logo=microsoft&logoColor=white) ![OSINT](https://img.shields.io/badge/OSINT-1E90FF?style=flat&logo=target&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-EE3B3B?style=flat&logo=metasploit&logoColor=white)
 
-**🌐 Desarrollo Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**📱 UI/UX**  
-![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat&logo=dotnet&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-0C54C2?style=flat&logo=.net&labelColor=512BD4&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-8B1A1A?style=flat&logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-25B8A1?style=flat&logo=java&logoColor=white)
-
-**🗄️ Bases de Datos**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat&logo=Oracle&logoColor=white) ![H2](https://img.shields.io/badge/H2-5D9B5D?style=flat&logo=java&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=windows&logoColor=white)
-
-**🛠️ ERP, CRM y CMS**  
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-512BD4?style=flat&logo=odoo&logoColor=white)
-
-**🚀 DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-**💻 Control de Versiones**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **🖥️ Sistemas**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-**🔒 Redes y Ciberseguridad**  
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![UTM](https://img.shields.io/badge/UTM_Virtualization-FF6600?style=flat&logo=security&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-EE3B3B?style=flat&logo=metasploit&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-EE3B3B?style=flat&logo=security&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-00979D?style=flat&logo=security&logoColor=white) ![Maltego](https://img.shields.io/badge/Maltego-1E1E1E?style=flat&logo=maltego&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat&logo=shodan&logoColor=white) ![OSRFramework](https://img.shields.io/badge/OSRFramework-000000?style=flat&logo=security&logoColor=white) ![Sherlock](https://img.shields.io/badge/Sherlock-800080?style=flat&logo=security&logoColor=white)  
+**👨🏽‍💻 Desarrollo**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-512BD4?style=flat&logo=odoo&logoColor=white)
 
+**🚀 DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**🛜 Virtualización**  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![UTM](https://img.shields.io/badge/UTM_Virtualization-FF6600?style=flat&logo=security&logoColor=white)
+
+**🛠️ CMS**  
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ---
 
 ## 💼 Experiencia Profesional
 
-A lo largo de mi carrera profesional, he tenido la oportunidad de participar en el desarrollo de aplicaciones web, utilizando tecnologías como HTML, CSS, JavaScript y Node.js, además de colaborar en proyectos de formación relacionados con la Inteligencia Artificial y la ciberseguridad.
+He trabajado desarrollando herramientas de automatización ETL, integrando productos de ciberseguridad y automatizando procesos que redujeron tiempos hasta un 250%. También me he ocupo del análisis y respuesta ante amenazas en entornos reales.
 
-Además, participé activamente en la optimización de procesos, donde logré reducir en hasta un 250% los tiempos de ejecución. 
-También proporcioné soporte técnico IT y me encargué de la implementación de planes de seguridad para equipos de trabajo, mejorando la protección y el rendimiento del entorno. 
+En 2021, impulsado por mi espíritu emprendedor, cofundé una startup de venta online, donde lideré la gestión de negocios internacionales y colaboré en el diseño y desarrollo de varios sitios web con plataformas como Wordpress y Shopify, entre otras cosas.
 
-En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en equipo, cofundé una startup de venta online, donde lideré iniciativas de gestión de negocios internacionales, colaboré en el diseño y desarrollo de sitios web con plataformas como Wordpress y Shopify, diseñé estrategias de marketing y apliqué técnicas SEO para mejorar la visibilidad online.
+En ilitia desarrollo scripts para automatizar procesos de análisis y respuesta ante amenazas e integraciones entre plataformas de seguridad, mejorando significativamente la eficiencia en la gestión de incidentes. También analizo y respondo a incidencias y amenazas en productos de Trend Micro.
 
 ---
 
@@ -79,7 +70,8 @@ En 2021, impulsado por mi espíritu emprendedor y mi pasión por el trabajo en e
   - Pentesting con Metasploit 
   - Análisis forense avanzado en Windows
   - Análisis forense avanzado en Linux
-  - Trend Micro XDR
+  - Trend Micro Vision One XDR
+  - Trend Micro Worry Free & CAS
   - SC-200: Mitigación de amenazas mediante Microsoft Defender XDR
 
 
